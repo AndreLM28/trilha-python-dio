@@ -1,6 +1,11 @@
 frutas = ["laranja", "maca", "uva"]
 print(frutas)
 
+print(frutas[1])
+print(frutas[0])
+print(frutas[-3])
+print(frutas[-1])
+
 frutas = []
 print(frutas)
 
